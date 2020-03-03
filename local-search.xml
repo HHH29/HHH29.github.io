@@ -21,7 +21,7 @@
     <link href="/2020/03/01/%E7%AC%AC%E4%B8%80%E6%AC%A1blog%E6%84%9F/"/>
     <url>/2020/03/01/%E7%AC%AC%E4%B8%80%E6%AC%A1blog%E6%84%9F/</url>
     
-    <content type="html"><![CDATA[<p>—**</p><h1 id="我的第一次blog"><a href="#我的第一次blog" class="headerlink" title="我的第一次blog*"></a>我的第一次blog*</h1><p>   第一次做博客，成功后真的有一种成就感。看到KEVIN De blog，心里很欢喜的同时也会想到这次的艰辛。从下载node配置node环境到现在的成品，历时大概有两三周吧，最让我难忘的就是配置hexo，百度上的教程似乎忽略了要配置环境变量这一点，导致我反复多次安装hexo都失败，险些要放弃，忽然想到node是要配置环境变量的，抱着试一试的心态，配置了一波变量，genius，成功了！真的是开心。<img src="https://img-blog.csdnimg.cn/20200301213032801.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tLS0RERF8=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>—**</p><h1 id="我的第一次blog"><a href="#我的第一次blog" class="headerlink" title="我的第一次blog*"></a>我的第一次blog*</h1><p>   第一次做博客，成功后真的有一种成就感。看到KEVIN De blog，心里很欢喜的同时也会想到这次的艰辛。从下载node配置node环境到现在的成品，历时大概有两三周吧，最让我难忘的就是配置hexo，百度上的教程似乎忽略了要配置环境变量这一点，导致我反复多次安装hexo都失败，险些要放弃，忽然想到node是要配置环境变量的，抱着试一试的心态，配置了一波变量，genius，成功了！真的是开心。<img src="https://img-blog.csdnimg.cn/20200301213032801.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tLS0RERF8=,size_16,color_FFFFFF,t_70" srcset="/img/loading.gif" alt="在这里插入图片描述"></p>]]></content>
     
     
     
@@ -34,7 +34,7 @@
     <link href="/2020/03/01/first%20blog%20/"/>
     <url>/2020/03/01/first%20blog%20/</url>
     
-    <content type="html"><![CDATA[<hr><p>title: my-first-blog </p><p>date: 2020-03-01 18:58:08</p><p>一个人的存在，到底对谁很重要？这世上，总有一些人记得你，就像风会记得一朵化的香，凡来尘往，莫不如此。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p>title: my-first-blog </p><p>date: 2020-03-01 18:58:08</p><p>一个人的存在，到底对谁很重要？这世上，总有一些人记得你，就像风会记得一朵化的香，凡来尘往，莫不如此。</p>]]></content>
     
     
     

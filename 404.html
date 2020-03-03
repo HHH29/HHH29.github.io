@@ -6,6 +6,7 @@
 
 
 <head>
+
   <meta charset="UTF-8">
   <link rel="apple-touch-icon" sizes="76x76" href="/img/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/img/favicon.png">
@@ -35,11 +36,10 @@
 
 <meta name="generator" content="Hexo 4.2.0"></head>
 
-
 <body>
   <header style="height: 100vh;">
     <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
-  <div class="container">
+  <div class="container"><iframe src="//player.bilibili.com/player.html?aid=62544272&cid=108686920&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     <a class="navbar-brand"
        href="/">&nbsp;<strong>KEVIN D blog</strong>&nbsp;</a>
 
@@ -92,7 +92,9 @@
           <li class="nav-item">
             <a class="nav-link" href="/about/">关于</a>
           </li>
-        
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=4893789381&auto=1&height=90"></iframe>
+	            <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=4893897080&auto=0&height=90"></iframe>
+
         
           <li class="nav-item" id="search-btn">
             <a class="nav-link" data-toggle="modal" data-target="#modalSearch">&nbsp;&nbsp;<i
@@ -300,6 +302,7 @@
 
 
 
-
-</body>
+{% if theme.canvas_nest %}
+<script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+{% endif %}</body>
 </html>
